@@ -3,7 +3,7 @@ import React from 'react'
 const Male = () => {
   return (
     <div>
-        <h2>Select your shirt size: </h2>
+        <h2>Select your shirt size:</h2>
         <select>
           <option value="select-size" selected>Select size</option>
           <option value="small">Small</option>
